@@ -1,4 +1,4 @@
-# syllabifyRo
+# syllabifyRO
 This script generates the syllables of words in Romanian passed as arguments. This is a rule based approach, which does not guarantee 100% accuracy due to the etymological complexities of the Romanian language.
 
 ## usage
